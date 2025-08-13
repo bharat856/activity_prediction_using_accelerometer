@@ -1,0 +1,2 @@
+# activity_prediction_using_accelerometer
+Accelerometer Sensor Data Prediction
